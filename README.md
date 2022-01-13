@@ -7,7 +7,7 @@ Overview of Project
 
 Results
 
-![alt text] (C:/Utor Class work/Assignments/VBAChallenge/stock-analysis/Outcomes_vs_Goals)
+![alt text] (C:/Utor Class work/Assignments/VBAChallenge/stock-analysis)
 
 Summary
 
