@@ -57,4 +57,4 @@ Finally, we run the stock analysis, to confirm that our stock analysis outputs f
 
 Dataset Examples Provided
 
-![data set provided examples of analysis for 2017 & 2018]()
+![data set provided examples of analysis for 2017 & 2018](https://github.com/femiimam001/stock-analysis/blob/main/Resources/data%20set%20provided%20examples%20of%20analysis%20for%202017%20%26%202018.PNG)
