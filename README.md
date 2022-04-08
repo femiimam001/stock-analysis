@@ -20,7 +20,7 @@ Created a tickerIndex variable and set it equal to zero before iterating over al
 
 Created three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndingPrices. In our VBA code, the tickerVolumes array should be a Long data type. But in our VBA code the tickerStartingPrices and tickerEndingPrices arrays should be a Single data type.
 
-![arrayss_created]()
+![arrayss_created](https://github.com/femiimam001/stock-analysis/blob/main/Resources/arrayss_created.PNG)
 
 3. The tickerIndex is used to access the stock ticker index for the tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices arrays.
 
