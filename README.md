@@ -53,7 +53,7 @@ Adding Comments is requiered, as a Best Practices for Writing Super Readable Cod
 -Avoid Deep Nesting,
 -Limit Line Length, etc...
 
-![comments_for_code_explanations]()
+![comments_for_code_explanations](https://github.com/femiimam001/stock-analysis/blob/main/Resources/comments_for_code_explanations.PNG)
 
 7. The outputs for the 2017 and 2018 stock analyses in the VBA_Challenge.xlsm workbook match the outputs from the AllStockAnalysis in the module
 
