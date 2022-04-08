@@ -38,7 +38,7 @@ Created a loop that will loop over all the rows in the spreadsheet. Inside the l
 
 We make positive returns green and negative returns red, to be a lot easier to determine which stocks did well and which ones didn't. Added some formatting based on the values of the returns.
 
-![formating_code]()
+![formating_code](https://github.com/femiimam001/stock-analysis/blob/main/Resources/formating_code.PNG)
 
 6. There are comments to explain the purpose of the code.
 
