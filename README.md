@@ -32,7 +32,7 @@ Created a for loop to initialize the tickerVolumes to zero. And if the next rowâ
 
 Created a loop that will loop over all the rows in the spreadsheet. Inside the loop, we created a script that increases the current tickerVolumes (stock ticker volume) variable and adds the ticker volume for the current stock ticker.
 
-## **Refer to resouces file for code images**
+![Reading_scripts_loopingthroughstocks]()
 
 5. Code for formatting the cells in the spreadsheet is working.
 
