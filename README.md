@@ -38,6 +38,8 @@ Created a loop that will loop over all the rows in the spreadsheet. Inside the l
 
 We make positive returns green and negative returns red, to be a lot easier to determine which stocks did well and which ones didn't. Added some formatting based on the values of the returns.
 
+![formating_code]()
+
 6. There are comments to explain the purpose of the code.
 
 Adding Comments is requiered, as a Best Practices for Writing Super Readable Code such,
