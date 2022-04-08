@@ -1,6 +1,6 @@
 # Stock-Analysis Using VBA And Excel
 
-## Overview of Project: VBA of Wall Street analysis 1. 2.
+## Overview of Project: VBA of Wall Street analysis
 
 This project is based on **Wall Street** project analysis of _green energy_, because it was believed that if fosil fuel get used up, there will be more reliance on alternative energy production. There are many forms of green energy to invest in including, Hydro electricity,Wind energy, Geothermal energy and Bio. energy. Steve who was a new graduate in the field of finance had approached me to help with this project.
 
