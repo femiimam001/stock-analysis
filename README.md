@@ -59,6 +59,8 @@ Adding Comments is requiered, as a Best Practices for Writing Super Readable Cod
 
 ![Time_analysis_for_2017](https://github.com/femiimam001/stock-analysis/blob/main/Resources/Time_analysis_for_2017.PNG)
 
+![Time_analysis_for_2018](https://github.com/femiimam001/stock-analysis/blob/main/Resources/Time_analysis_for_2018.PNG)
+
 Finally, we run the stock analysis, to confirm that our stock analysis outputs for 2017 and 2018 are the same as dataset example provided (as shown in the images below, named Dataset Examples Provided). In adition, in our resources folder and below you can see the final Stock Analysis Results named, Final VBA Analysis 2017 and 2018 save the pop-up messages showing elapsed run time for the refactored code as VBA_Challenge_2017.png and VBA_Challenge_2018.png. Then, save the changes to your workbook..
 
 Dataset Examples Provided
