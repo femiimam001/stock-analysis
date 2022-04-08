@@ -14,7 +14,7 @@ Results:
 
 Created a tickerIndex variable and set it equal to zero before iterating over all the rows. I used this tickerIndex to access the correct index across the four different arrays on VBA Code: the tickers array and the three output arrays created on next requierement.
 
-![tickerindex_used to_access_stock]()
+![tickerindex_used to_access_stock](https://github.com/femiimam001/stock-analysis/blob/main/Resources/tickerindex_used%20to_access_stock.PNG)
 
 2. Arrays are created for tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 
