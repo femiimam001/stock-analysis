@@ -26,7 +26,7 @@ Created three output arrays: tickerVolumes, tickerStartingPrices, and tickerEndi
 
 Created a for loop to initialize the tickerVolumes to zero. And if the next row’s ticker doesn’t match, increase the tickerIndex.
 
-## **Refer to resouces file for code images**
+![tickerindex_used to_access_stoc]()
 
 4. The script loops through stock data, reading and storing all of the following values from each row: tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices.
 
